@@ -1,0 +1,18 @@
+
+{
+   "createnewuser":{
+      "req": {
+         "additionalProperties": false,
+         "properties": {
+         },
+         "required": []
+      },
+      "res":{
+         "additionalProperties": false,
+         "properties": {
+            "data":"object"
+         },
+         "required": ["data"]
+      }
+   }
+}
